@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/speechRecognitionApp/static/css/main.6c1e0aa5.css",
+    "main.js": "/speechRecognitionApp/static/js/main.49000860.js",
+    "static/js/787.28cb0dcd.chunk.js": "/speechRecognitionApp/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/speechRecognitionApp/index.html",
+    "main.6c1e0aa5.css.map": "/speechRecognitionApp/static/css/main.6c1e0aa5.css.map",
+    "main.49000860.js.map": "/speechRecognitionApp/static/js/main.49000860.js.map",
+    "787.28cb0dcd.chunk.js.map": "/speechRecognitionApp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c1e0aa5.css",
+    "static/js/main.49000860.js"
+  ]
+}
